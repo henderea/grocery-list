@@ -15,3 +15,8 @@ public/assets
 
 
 /shared
+# Ignore application configuration
+/config/application.yml
+.idea/runConfigurations
+.idea/dataSources.xml
+.idea/dataSources.ids
