@@ -20,3 +20,5 @@ public/assets
 .idea/runConfigurations
 .idea/dataSources.xml
 .idea/dataSources.ids
+.idea
+*.iml
